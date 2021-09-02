@@ -1,5 +1,6 @@
 *{
     margin: 0;
+
 }
 .page{
     margin: auto;
@@ -56,3 +57,18 @@
     font-size: 12px;
 }
 /* End Header*/
+
+/* Start Main*/
+.text{
+    margin-left: 12px;
+}
+.underline{
+    background-color: yellow;
+}
+.list{
+    margin-top: 20px;
+}
+.second_text{
+    margin-top: 40px;
+}
+/* End Main*/
