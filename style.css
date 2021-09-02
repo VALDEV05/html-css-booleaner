@@ -6,7 +6,6 @@
     margin: auto;
     width: 1000px;
     height: 2000px;
-    border: grey solid 2px;
 
 }
 
@@ -27,7 +26,7 @@
     margin-top: 20px;
     font-size: 38px;
     margin-left: 12px;
-  }
+}
 .author{
     font-size: 18px;
     color:grey;
@@ -68,6 +67,22 @@
 .list{
     margin-top: 20px;
 }
+thead {
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+  }
+  
+.table {
+    margin-top: 25px;
+    border-spacing: 0;
+  }
+.ununderline_row{
+    width: 60%;
+  }
+.underline_row {
+    background-color: #B1E5F2;
+  }
 .second_text{
     margin-top: 40px;
 }
